@@ -1,10 +1,10 @@
-#Simon Game
+#  Simon Game
 This is a web-based implementation of the classic Simon game. The game tests the player's memory by generating a sequence of colors that the player must reproduce. The sequence gets progressively longer and more complex as the game continues.
 
-#Table of Contents
-##Simon Game
-###Table of Contents
-####Overview
+# Table of Contents
+## Simon Game
+### Table of Contents
+#### Overview
 ->Game Rules
 ->Installation
 ->Usage
@@ -12,17 +12,17 @@ This is a web-based implementation of the classic Simon game. The game tests the
 ->Technologies Used
 ->Contributing
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
-##Overview
+## Overview
 The Simon Game is a fun and challenging game that helps improve memory and concentration. The game consists of four colored buttons (red, green, yellow, blue). The game will light up these buttons in a random sequence, and the player must replicate the sequence. Each round, the sequence gets longer, making it more difficult to remember.
 
-##Game Rules
+## Game Rules
 Start the Game: Press any key or click on the screen to start the game.
 Watch the Sequence: The game will highlight a sequence of colors.
 Repeat the Sequence: Click the buttons in the same order as the highlighted sequence.
 Continue: If you successfully repeat the sequence, the game will add another color to the sequence and repeat the process.
 Game Over: If you click the wrong button, the game will end, and you can restart by pressing any key or clicking the screen.
 
-##Installation
+## Installation
 To run the Simon Game locally, follow these steps:
 
 Clone the Repository:
@@ -35,7 +35,7 @@ cd simon-game
 Open index.html in Your Browser:
 Simply open the index.html file in any modern web browser to start playing the game.
 
-##Usage
+## Usage
 Once you have the game running in your browser:
 
 Press any key or click on the screen to start the game.
@@ -43,7 +43,7 @@ Watch the sequence of colors displayed.
 Click the buttons to replicate the sequence.
 If you make a mistake, the game will display "Game Over" and prompt you to restart.
 
-##Code Structure
+## Code Structure
 The project's file structure is as follows:
 
 graphql
@@ -102,5 +102,5 @@ Copy code
 git push origin feature/your-feature-name
 Open a Pull Request: Submit your pull request with a detailed description of your changes.
 
-#VIDEO SAMPLE
+# VIDEO SAMPLE
 https://github.com/Deepikakolli4/simongame/assets/165411615/48e60e31-c326-42e8-9e40-5c78e5778e5e
